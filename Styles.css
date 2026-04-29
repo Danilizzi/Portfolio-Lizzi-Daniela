@@ -139,7 +139,7 @@ html, body {
     flex-direction: row;
         justify-content: center;
         align-items: center;
-        gap:90px;
+        gap:60px;
 }
 .aplicaciones img {
     width:90px;
